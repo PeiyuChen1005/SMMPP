@@ -20,7 +20,7 @@ A simple MIPS like pipeline processor, projects of CS145-SJTU.
         lab6.zip
 ```
 
-:book: Menu
+### :book: Menu
 
 * Lab01: LED Flow Water Light
 
